@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - :computer: I'm currently working on a weather application :sunny: :cloud: :partly_sunny: :umbrella:
 - 🌱 I’m learning a whole lot but my main focus is .Net and C#
