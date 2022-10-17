@@ -10,9 +10,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
 
-[comment]: < This is the herokuapp deployment >
+<!--
+This is the herokuapp deployment, dosent always work tho...
 [![GitHub Streak](https://ida-kodar.herokuapp.com?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
-
+-->
 </div>
 
 <p align="center">
