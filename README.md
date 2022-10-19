@@ -1,4 +1,6 @@
+
 https://user-images.githubusercontent.com/89834477/196614123-376238e1-7403-4ab7-b040-d51d7ba69516.mp4
+
 
 <h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi+there+👋" alt="Typing SVG" /></a>
@@ -22,9 +24,10 @@ This is the herokuapp deployment, dosent always work tho...
 -->
 </div>
 
-<p>
+
+<font size="5"> 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Tutorial </a>
-</p>
+</font>
 
 
 
