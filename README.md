@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/89834477/196614123-376238e1-7403-4ab7-
 
 <div align="center"> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=DD2727&ring=DD2727)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=FFE944&ring=DD2727)](https://git.io/streak-stats) 
 
 <!--
 This is the herokuapp deployment, dosent always work tho...
