@@ -1,11 +1,9 @@
 
-https://user-images.githubusercontent.com/89834477/196614123-376238e1-7403-4ab7-b040-d51d7ba69516.mp4
-
-
 <h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi+there+👋" alt="Typing SVG" /></a>
 </h1>
 
+https://user-images.githubusercontent.com/89834477/196614123-376238e1-7403-4ab7-b040-d51d7ba69516.mp4
 
 * :computer: I'm currently working on a weather application :sunny: :cloud: :partly_sunny: :umbrella:
 * 🌱 I’m learning a whole lot but my main focus is .Net and C#
