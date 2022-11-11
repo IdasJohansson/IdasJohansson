@@ -1,9 +1,8 @@
+![Blue and White Geometric Technology Linkedin Banner](https://user-images.githubusercontent.com/89834477/201286340-68a4fd7b-5b14-4e67-b4cc-b9bdc519bef9.png)
 
 <h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi+there+👋" alt="Typing SVG" /></a>
 </h1>
-
-https://user-images.githubusercontent.com/89834477/196614123-376238e1-7403-4ab7-b040-d51d7ba69516.mp4
 
 * :computer: I'm currently working on a weather application :sunny: :cloud: :partly_sunny: :umbrella:
 * 🌱 I’m learning a whole lot but my main focus is .Net and C#
@@ -12,7 +11,7 @@ https://user-images.githubusercontent.com/89834477/196614123-376238e1-7403-4ab7-
 <br>
 
 
-<div align="center"> 
+<div align=""> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=FFE944&ring=DD2727)](https://git.io/streak-stats) 
 
