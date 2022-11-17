@@ -4,16 +4,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi+there+👋" alt="Typing SVG" /></a>
 </h1>
 
-
-  
 * :computer: I'm currently working on a weather application :sunny: :cloud: :partly_sunny: :umbrella:
 * 🌱 I’m learning a whole lot but my main focus is .Net and C#
 * 📫 Connect with me: <a href="https://www.linkedin.com/in/ida-s-johansson/"> LinkedIn </a> 
 * ⚡ Other interests: :ocean: :surfer: :pizza: :fork_and_knife: :art:
 <br>
   
+***
 
-<div align=""> 
+<div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=IdasJohansson&fire=E1660B&ring=1A1694&currStreakLabel=000000)](https://git.io/streak-stats)
 
@@ -23,16 +22,14 @@ This is the herokuapp deployment, dosent always work tho...
 -->
 </div>
 
-<div align=""> 
+<div align="center"> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdasJohansson&layout=compact&theme=transparent&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
-
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Tutorial </a> /
 <a href="https://github.com/anuraghazra/github-readme-stats"> Most used languages repo </a>
-
+  
+</div>
 
 
 
