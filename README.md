@@ -4,11 +4,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi+there+👋" alt="Typing SVG" /></a>
 </h1>
 
+***
+
 * :computer: I'm currently working on a weather application :sunny: :cloud: :partly_sunny: :umbrella:
 * 🌱 I’m learning a whole lot but my main focus is .Net and C#
 * 📫 Connect with me: <a href="https://www.linkedin.com/in/ida-s-johansson/"> LinkedIn </a> 
 * ⚡ Other interests: :ocean: :surfer: :pizza: :fork_and_knife: :art:
-<br>
   
 ***
 
