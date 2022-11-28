@@ -15,7 +15,7 @@
 
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=IdasJohansson&fire=E1660B&ring=1A1694&currStreakLabel=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IdasJohansson&theme=graywhite&fire=E1660B&currStreakLabel=000000)](https://git.io/streak-stats)
 
 <!--
 This is the herokuapp deployment, dosent always work tho...
@@ -29,7 +29,7 @@ This is the herokuapp deployment, dosent always work tho...
   
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Tutorial </a> /
 <a href="https://github.com/anuraghazra/github-readme-stats"> Most used languages repo </a>
-  :)(:
+  :)
   
 
 </div>
