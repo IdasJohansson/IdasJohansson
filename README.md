@@ -28,6 +28,7 @@ This is the herokuapp deployment, dosent always work tho...
 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> GitHub Streak Tutorial </a> 
+  
 👋 👋
 </div>
 
