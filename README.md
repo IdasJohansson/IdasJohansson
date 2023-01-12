@@ -14,7 +14,8 @@
 ***
 
 <div align="center"> 
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Idasjohansson)](https://git.io/streak-stats)
+
 <!--
 This is the herokuapp deployment, dosent always work tho...
 [![GitHub Streak](https://ida-kodar.herokuapp.com?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
