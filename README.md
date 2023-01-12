@@ -14,6 +14,7 @@
 ***
 
 <div align="center"> 
+  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Idasjohansson)](https://git.io/streak-stats)
 
 <!--
