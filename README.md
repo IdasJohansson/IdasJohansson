@@ -22,8 +22,10 @@ This is the herokuapp deployment, dosent always work tho...
 [![GitHub Streak](https://ida-kodar.herokuapp.com?user=IdasJohansson&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&background=000000&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
 -->
 </div>
-
 <div align="center"> 
+  <img src="https://camo.githubusercontent.com/f28d6296e50ae5022e2afa3cca62243002008e6cc10c1804ad2970a42942e4c1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d61726961736c6975666b6f2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="idasjohansson" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=IdasJohansson&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
+
   
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> GitHub Streak Tutorial </a> 
   
