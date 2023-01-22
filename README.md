@@ -24,10 +24,10 @@ This is the herokuapp deployment, dosent always work tho...
 </div>
 <div align="center"> 
   
- <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdasJohansson)](https://github.com/IdasJohansson/github-readme-stats)
 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdasJohansson&layout=compact&theme=transparent&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> GitHub Streak Tutorial </a> 
   
