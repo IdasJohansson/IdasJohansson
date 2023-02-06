@@ -34,5 +34,8 @@ This is the herokuapp deployment, dosent always work tho...
 
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/IdasJohansson/count.svg)
+
+
 
 
